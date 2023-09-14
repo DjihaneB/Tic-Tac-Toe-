@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.module": "php",
+        "iostream": "cpp"
+    },
+    "code-runner.runInTerminal": true
+}
