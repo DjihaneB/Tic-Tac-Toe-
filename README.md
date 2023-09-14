@@ -6,7 +6,7 @@ Bienvenue dans le jeu du Morpion (Tic-Tac-Toe) ! Ce projet est une implémentati
 
 Le Morpion est un jeu classique pour deux joueurs, où le but est de remplir une grille de 3x3 avec les symboles de votre joueur (X ou O) de manière à aligner trois de vos symboles en ligne, en colonne ou en diagonale avant votre adversaire. Le joueur qui parvient à aligner trois symboles gagne la partie. Si la grille est complètement remplie sans qu'aucun joueur ne parvienne à aligner trois symboles, la partie est déclarée nulle.
 
-![Capture d'écran du jeu](![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/85717fcf-0ee2-4e35-b4eb-cf5591cc4740/fd723694-3edf-45a3-bff1-e6708c3a5fbd/Untitled.png))
+![Capture d'écran du jeu](https://github.com/DjihaneB/Tic-Tac-Toe-/assets/123997026/2c2da83f-2812-4c05-b131-bd910dfdc9de)
 
 ## Fonctionnalités
 
@@ -17,7 +17,8 @@ Ce projet comprend les fonctionnalités suivantes :
 - Conditions de victoire et d'égalité.
 - Configuration initiale du plateau de jeu.
 
-![Capture d'écran du plateau de jeu](https://prod-files-secure.s3.us-west-2.amazonaws.com/85717fcf-0ee2-4e35-b4eb-cf5591cc4740/e09f881c-de34-4e1a-8a70-b75a23474b1c/Untitled.png)
+![Capture d'écran du plateau de jeu](https://github.com/DjihaneB/Tic-Tac-Toe-/assets/123997026/799a1ed0-782b-4ecf-9a77-1f8b077d8a71)
+
 
 ## Comment jouer
 
@@ -27,7 +28,8 @@ Ce projet comprend les fonctionnalités suivantes :
 4. Jouez tour à tour jusqu'à ce qu'il y ait un gagnant ou une égalité.
 5. Profitez du jeu et amusez-vous !
 
-![Capture d'écran de la saisie des noms des joueurs](https://prod-files-secure.s3.us-west-2.amazonaws.com/85717fcf-0ee2-4e35-b4eb-cf5591cc4740/a9115bf7-e4f6-4740-a367-65cfb55ea03a/Untitled.png)
+![Capture d'écran de la saisie des noms des joueurs](https://github.com/DjihaneB/Tic-Tac-Toe-/assets/123997026/761d9e2d-1919-4278-a4c0-24f1d78bfe64)
+
 
 ## Prérequis
 
