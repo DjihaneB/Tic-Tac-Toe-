@@ -6,7 +6,7 @@ Bienvenue dans le jeu du Morpion (Tic-Tac-Toe) ! Ce projet est une implémentati
 
 Le Morpion est un jeu classique pour deux joueurs, où le but est de remplir une grille de 3x3 avec les symboles de votre joueur (X ou O) de manière à aligner trois de vos symboles en ligne, en colonne ou en diagonale avant votre adversaire. Le joueur qui parvient à aligner trois symboles gagne la partie. Si la grille est complètement remplie sans qu'aucun joueur ne parvienne à aligner trois symboles, la partie est déclarée nulle.
 
-![Capture d'écran du jeu](https://prod-files-secure.s3.us-west-2.amazonaws.com/85717fcf-0ee2-4e35-b4eb-cf5591cc4740/fd723694-3edf-45a3-bff1-e6708c3a5fbd/Untitled.png)
+![Capture d'écran du jeu](![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/85717fcf-0ee2-4e35-b4eb-cf5591cc4740/fd723694-3edf-45a3-bff1-e6708c3a5fbd/Untitled.png))
 
 ## Fonctionnalités
 
